@@ -21,8 +21,6 @@ preview
 
 - 🌱 I’m currently learning **Spring, and Angular**
 
-- 👯 I’m looking to collaborate on **EduCloud**
-
 - 💬 Ask me about **Core Java, Html, Css, JavaScript, TypeScript, Bootstrap.**
 
 - 📫 How to reach me **rameshwarban000@gmail.com**
